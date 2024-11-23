@@ -1,0 +1,1 @@
+This folder is created for storing project-related files.Contents:- This folder will include `.txt` and `.csv` file types in the future.Purpose:- To upload and manage project-related data files.- Files in this folder will be used for project analysis and data processing.
